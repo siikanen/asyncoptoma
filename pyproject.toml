@@ -5,7 +5,7 @@ description = ""
 authors = ["Sebastian Lübke <luebke@gonicus.de>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = ">=3.8"
 httpx = "^0.23.0"
 bs4 = "^0.0.1"
 
